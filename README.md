@@ -1,6 +1,6 @@
 # Some basis terms when using Git for beginners (Windows)
 
-•	<b>ls</b> lists all files in the current directory
+•	<mark style="background-color: #FFFF00"><b>ls</b></mark> lists all files in the current directory
 
 •	<b>start .</b>   to open to see all folders listed under ls
 
