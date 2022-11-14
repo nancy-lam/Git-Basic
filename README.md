@@ -1,6 +1,6 @@
 # Some basis terms when using Git for beginners (Windows)
 
-•	ls: lists all files in the current directory
+•	<b>ls:</b> lists all files in the current directory
 
 •	start .   to open to see all folders listed under ls
 
