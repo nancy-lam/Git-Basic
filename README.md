@@ -1,23 +1,23 @@
 # Some basis terms when using Git for beginners (Windows)
 
-•	<b>ls:</b> lists all files in the current directory
+•	<b>ls</b> lists all files in the current directory
 
-•	start .   to open to see all folders listed under ls
+•	<b>start .</b>   to open to see all folders listed under ls
 
-•	ls PycharmProjects: to go to PycharmProjects directory, we will need to type ls PycharmProjects
+•	<b>ls PycharmProjects</b> to go to PycharmProjects directory, we will need to type ls PycharmProjects
 
-•	start PycharmProjects: to open PycharmProjects folder
+•	<b>start PycharmProjects</b> to open PycharmProjects folder
 
-•	pwd: prints out the current directory (stands for “print working directory”)
+•	<b>pwd</b> prints out the current directory (stands for “print working directory”)
 
-•	cd: change directory 
+•	<b>cd</b> change directory 
 
-•	cd .. take back 1 level (to go back the previous folder)
+•	<b>cd ..</b> take back 1 level (to go back the previous folder)
 
-•	touch: to create a new file
+•	<b>touch</b> to create a new file
 
-•	mkdir: create a new directory (to create a new folder)
+•	<b>mkdir</b> create a new directory (to create a new folder)
 
-•	rm: to delete/remove files
+•	<b>rm</b> to delete/remove files
 
-•	rm -rf: delete/remove directory
+•	<b>rm -rf</b> delete/remove directory
